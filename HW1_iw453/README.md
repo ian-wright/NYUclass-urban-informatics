@@ -1,1 +1,1 @@
-![my .bashrc](bashrc_screenshot.tiff)
+![my .bashrc](bashrc_screenshot.jpg)
