@@ -6,7 +6,7 @@ I created an environment variable, PUI2016, to reference the path to my working 
 ```
 $PUI2016
 ```
-This working directory is a clone of my githun repo by the same name.
+This working directory is a clone of my github repo by the same name.
 
 I also created an alias, pui2016, that will take me directly to that working directory, via a cd command. This is used as follows:
 ```
