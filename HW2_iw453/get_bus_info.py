@@ -76,8 +76,8 @@ def main():
     df = build_dataframe(bus_list)
 
     print df
-    print 'csv file created.'
     df.to_csv(sys.argv[3] + '.csv', index=False)
+    print 'csv file created.'
 
 
 if __name__ == '__main__':
