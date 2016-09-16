@@ -1,5 +1,8 @@
 #!//anaconda/bin/python
 
+# Author: Ian Wright
+# Purpose: PUI2015 homework 2, assignment 2
+
 import requests
 import sys
 import pandas as pd
@@ -26,7 +29,7 @@ def get_params():
     return (url, {'key': key, 'version': version, 'LineRef': LineRef, 'VehicleMonitoringDetailLevel': VehicleMonitoringDetailLevel})
 
 
-def mta_api(url_params):
+def call_mta_api(url_params):
     """
     Calls the MTA API and parses json response for a list of active buses.
     """
@@ -69,7 +72,7 @@ def build_dataframe(bus_list):
 
 def main():
 
-    bus_list = mta_api(get_params())
+    bus_list = call_mta_api(get_params())
     df = build_dataframe(bus_list)
 
     print df
