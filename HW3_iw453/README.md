@@ -12,16 +12,19 @@ For assignment 2, Jonathan Pichot and I started a statistical analysis on the de
 
 DISCLAIMER OF GROUP WORK:
 I worked closely with Jonathan Pichot (jp4772) on Assignment 2.
-My contributions:
-  - reading in citibike station data
-  - plotting
-Jonathan's contributions:
-  - GIS work/inspection
-  - reading in citbike trip data
-Together:
-  - formulation and refinement tof hypotheses
-  - categorization of trips
-  - basic analysis (means, distributions, ect)
+
+#### My contributions:
+- reading in citibike station data
+- plotting
+
+#### Jonathan's contributions:
+- GIS work/inspection
+- reading in citbike trip data
+
+#### Together:
+- formulation and refinement of hypotheses
+- categorization of trips
+- basic analysis (means, distributions, ect)
 
 #### We are sharing the final script - it will be identical for both of us.
 
