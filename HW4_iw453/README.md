@@ -14,9 +14,12 @@ t-test	| 1, whether or not guppies were trained to distinguish between numbers  
  Spearman Correlation |transcriptional profile (one of the possibly correlated variables)|continuous|pathway profile (the other of the possibly correlated variables)|continuous|gene expression profiles were normalized around median across all samples (some measure of offset being the controlled variable)|continuous|Do cancer subtypes with similar phenotype, or similar clinical outcome, show correlation at a molecular level?|The correlation of molecular properties in cancer subtypes with similar phenotype is not present; ie there is no relationship. |0.05 |[Correlation Analysis Connects Cancer Subtypes](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069747#s5)|
  
 ## Assignment 3:
-For this assignment, I followed along with a skeleton notebook created by Frederica 'effectivenes of NYC Post-Prison Employment Programs.ipynb' and completed the unfinished sections as required. I used a z-test and a chi-squared test to assess teh signifiance of the impact of NYC's CEO post-prison employment program.
+For this assignment, I followed along with a skeleton notebook created by Frederica 'effectiveness of NYC Post-Prison Employment Programs.ipynb' and completed the unfinished sections as required. I used a z-test and a chi-squared test to assess teh signifiance of the impact of NYC's CEO post-prison employment program.
 
 ## Assignment 4:
 Again, I was following along with Frederica's skeleton notebook for this assignment. I used three different statistical tests for correlation (KS, Pearson, and Spearman) to test whether the distribution of age among both male and female citibike riders was similar (or the same). For extra credit, I performed a similar analysis, but was looking at day riders vs. night riders, instead of gender.
 
 ## A note on group work:
+For assignment 2, I reviewed my logic/approach to populating the tables with Ian Stuart - we did the work on different articles, but bounced ideas off each other throughout.
+
+I worked closely with Jonathan Pichot on Assignment 4, particularaly on trying to understand the mechanisms of both Spearman and Pearson correlation models.
