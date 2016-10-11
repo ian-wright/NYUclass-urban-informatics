@@ -12,11 +12,11 @@ I used american census data to study the gender gap in wage/income across a rang
 #### Do diets help lose more fat than the exercise?
 + Experimental setup: you have a test and a control sample.
 + NULL: The average weight difference for a group of test subjects that adhered to a controlled diet (but no regimented exercise), from before to after the diet, is the same or less than that of a test group that adhered to a exercise regimen, but no forced diet plan. Weight GAINS would be handled appropriately,  
-+ H_0: WeightLoss_diet <= WeightLoss_exercise
++ H_0: avgWeightLoss_diet <= avgWeightLoss_exercise
 
 #### Do American trust the president?
 + POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
-+ NULL: 50% or more of polled individuals do not trust Bill Clinton as a President.
++ NULL: 50% or more of polled individuals respond that they do not trust Bill Clinton as a President.
 + H_0: count_dont_trust >= count_do trust 
 
 #### Effectiveness of nicotine patches to quit smoking.
