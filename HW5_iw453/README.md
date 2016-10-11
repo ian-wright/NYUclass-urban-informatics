@@ -6,7 +6,7 @@
 I fitted the age distribution of a sample of citibike riders to normal and log-normal curves, and used a variety of goodness-of-fit tests to make conclusions about whether or not the age distributions truly followd the assumed underlying distributions. For EXTRA CREDIT, I first split the age data but NYC borough, and performed a similar analysis.
 
 ## Assignment 2:
-I used american census data to study the gender gap in wage/income across a range of races. I used linear regression
+I used american census data to study the gender gap in wage/income across a range of races. I used simple linear regression to better understand the relationship between male and female incomes for similar income streams. A variety of different linear regression methods are used to describe the relationship.
 
 ## Assignment 3
 #### Do diets help lose more fat than the exercise?
