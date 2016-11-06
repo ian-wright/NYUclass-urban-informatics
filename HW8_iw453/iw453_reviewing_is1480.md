@@ -1,1 +1,1 @@
-![alt text](is_plot.tiff)
+![alt text](is_plot.jpg)
