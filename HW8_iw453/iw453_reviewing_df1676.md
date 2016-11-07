@@ -1,6 +1,6 @@
 ![alt text](df_plot.jpg)
 
-(the interactive version of this chart can be seen by opening 'df_plot.html' in a browser)
+##### (the interactive version of this chart can be seen by opening 'df_plot.html' in a browser)
 
 Dongjie, this is a really neat visualization! It's an interesting alternative approach to visualizing time series. I think the graph does a great job of showing a *qualitative narrative* for each of the soccer teams' seasons.
 
