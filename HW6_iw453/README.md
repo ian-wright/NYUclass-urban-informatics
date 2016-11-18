@@ -10,3 +10,5 @@ Jonathan Pichot and I worked together to finish the citibike analysis project st
 
 #### A note on group work:
 I worked with Jonathan Pichot on both assignments. I also received some help with the chi-squared goodness-of-fit test from 
+# FBB excellent work
+goo that you clarified  the boundary stations choice
