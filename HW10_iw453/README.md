@@ -8,8 +8,7 @@ In 'hw10_assign1' I simply include and re-run the notebook that we worked on in 
 ## Assignment 2
 In 'hw10_assign2' I re-use the above analysis, but apply it to tewo distinct datasets: one for summer citibike rides and one for winter citibike rides.
 
-![alt tag](summer_winter.jpg "wintersummer)
-![alt tag](http://url/to/img.png)
+![alt tag](/summer_winter.jpg "wintersummer)
 
 #### A note on group work:
 None this time.
